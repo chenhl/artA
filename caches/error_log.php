@@ -2418,3 +2418,79 @@
 <?php exit;?>12-04 13:24:28 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
 <?php exit;?>12-04 13:24:28 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
 <?php exit;?>12-04 13:24:28 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:26:21 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:26:21 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:26:21 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:26:21 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:26:21 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:26:21 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:26:21 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:26:21 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:26:21 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:26:21 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:27:57 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:27:57 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:27:57 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:27:57 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:27:57 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:27:57 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:28:03 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:28:03 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:28:03 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:28:03 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:28:03 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:28:03 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:28:03 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:28:03 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:28:03 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:28:03 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:28:05 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:29:02 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:29:02 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:29:02 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:29:02 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:29:02 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:29:02 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:29:02 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:29:02 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:29:02 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:29:02 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:41:52 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:41:52 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:41:52 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:41:52 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:41:52 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:41:52 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:41:52 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:41:52 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:41:52 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:41:52 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:42:18 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:42:18 | 2 | mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
+<?php exit;?>12-04 13:42:18 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:42:18 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:42:18 | 2 | db_mysqli::errno(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 397
+<?php exit;?>12-04 13:42:18 | 2 | db_mysqli::error(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 390
+<?php exit;?>12-04 13:42:18 | 2 | mysqli::close(): Couldn't fetch mysqli | phpcms\libs\classes\db_mysqli.class.php | 409
+<?php exit;?>12-04 13:42:18 | 2 | Unknown: Cannot call session save handler in a recursive manner | Unknown | 0
+<?php exit;?>12-04 13:42:18 | 2 | Unknown: Failed to write session data using user defined save handler. (session.save_path: D:\xampp7\tmp) | Unknown | 0
+<?php exit;?>12-04 13:42:18 | 2 | mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ��֪������������  | phpcms\libs\classes\db_mysqli.class.php | 55
